@@ -31,7 +31,6 @@ This repository contains Python practice questions and solutions for various top
 - **Find Even and Odd Numbers**: Using conditional statements to classify numbers.
 - **Leap Year Check**: A program to determine if a year is a leap year.
 - **Find the Largest of Three Numbers**: Comparing three values to find the largest.
-- **Fibonacci Series**: Generating the Fibonacci sequence.
 
 ---
 
